@@ -1,0 +1,1 @@
+{"name":"wildland-admin-manager-api","vers":"0.2.0","deps":[{"name":"thiserror","req":">=1.0.31, <2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":"https://github.com/rust-lang/crates.io-index","package":null}],"cksum":"a7ce9f0c9dd5f404f3c785cc0875ad143a3b02b4e11981ed5c6e981f514f330f","features":{},"yanked":false,"links":null}
