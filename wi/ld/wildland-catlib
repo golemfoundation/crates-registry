@@ -5,3 +5,4 @@
 {"name":"wildland-catlib","vers":"0.2.3","deps":[],"cksum":"f9501d6ed227387fafde9f19aaef301b1922c0c206fbf4c3573a59f6b10ff2ec","features":{},"yanked":false,"links":null}
 {"name":"wildland-catlib","vers":"0.3.0","deps":[],"cksum":"10012cf24409bf90902d3339161fb8b213b4f23420a95c5101987423b325291e","features":{},"yanked":false,"links":null}
 {"name":"wildland-catlib","vers":"0.3.1","deps":[],"cksum":"574558354f3305a91104c1254ee38897a0d659941dc3b9d0047cf30c3c9cc43f","features":{},"yanked":false,"links":null}
+{"name":"wildland-catlib","vers":"0.3.2","deps":[],"cksum":"d8f8e39936f242533a4f0ac907fc8b500a6b8e3cea1348f1eb8b51f7a93891c8","features":{},"yanked":false,"links":null}
